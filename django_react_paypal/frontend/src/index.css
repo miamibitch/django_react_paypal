@@ -1,5 +1,5 @@
 body {
-  background-color: #fdf1ec;
+  background-color: #ffc0cb;
 } 
 
 h1, img {
@@ -12,7 +12,7 @@ h1, img {
   max-width: 300px;
   margin: auto;
   text-align: center;
-  font-family: arial;
+  font-family: sans-serif;
 }
 
 .card h1, p {
@@ -27,7 +27,20 @@ h1, img {
 }
 
 .price {
-  color: grey;
+  color: #474747;
   font-size: 22px;
 }
+
+.center {
+font-family: sans-serif;
+border-spacing: 10px;
+text-align: left;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 
